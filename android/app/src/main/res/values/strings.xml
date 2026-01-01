@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SmartSpend</string>
+    <string name="title_activity_main">SmartSpend</string>
+    <string name="package_name">com.tridip.smartspend</string>
+    <string name="custom_url_scheme">com.tridip.smartspend</string>
+</resources>
